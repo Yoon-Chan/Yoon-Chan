@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 
-##Skills
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+## Skills
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Kotlin&logoColor=#7F52FF"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Flutter&logoColor=#02569B"/>
+
+
 <!--
 **Yoon-Chan/Yoon-Chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
