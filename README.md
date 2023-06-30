@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
 
 
+## Git Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-chan&theme=shadow_blue&show_icons=true)
 <!--
 **Yoon-Chan/Yoon-Chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
